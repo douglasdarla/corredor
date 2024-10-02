@@ -39,8 +39,8 @@ body{
     overflow: hidden;
     width: calc(636px / 08);
     height: 99px;
-    animation: correr1 1s steps(08) infinite,
-               mover1 8s linear infinite;           
+    animation: correr1 0.75s steps(08) infinite,
+               mover1 10s linear infinite;           
 }
 
 @keyframes correr1 {
